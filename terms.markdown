@@ -10,16 +10,16 @@ PLEASE NOTE: THESE TERMS CONTAIN A BINDING ARBITRATION PROVISION IN SECTION 14 T
 
 FURTHERMORE, THESE TERMS CONTAIN IMPORTANT DISCLAIMERS IN (SECTION 2), DISCLAIMERS OF WARRANTIES (SECTION 6), LIMITATION OF LIABILITY (SECTION 10) AND CLASS ACTION WAIVER (SECTION 14).
 
-## 1.   ACCEPTANCE OF TERMS
+## 1.ACCEPTANCE OF TERMS
 
 1.1. The provisions of the “Terms” govern the relationship between you and BetterMe International Limited (reg. No. HE417945) with registered office at Themistokli Dervi 39, 1st floor, Office 104, 1066, Nicosia, Cyprus (“we”, “us”, “our” or the “Company”) regarding your use of the Company’s mobile applications, websites and related services (the “App” or “Service”), including all information, text, graphics, software, and services, available for your use (the “Content”).
 
-1. 2. These Terms establish a legally binding contractual relationship between you and the Company. For this reason, PLEASE READ THE TERMS CAREFULLY BEFORE USING THE SERVICE.
+1.2. These Terms establish a legally binding contractual relationship between you and the Company. For this reason, PLEASE READ THE TERMS CAREFULLY BEFORE USING THE SERVICE.
 
-1. 3. Please review also our Privacy Policy. The terms of the Privacy Policy and other supplemental terms, policies or documents that may be posted on the Service from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms at any time and for any reason.
+1.3. Please review also our Privacy Policy. The terms of the Privacy Policy and other supplemental terms, policies or documents that may be posted on the Service from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms at any time and for any reason.
 
-1. 4.                   Any translation from English version is provided for your convenience only. In the event of any difference in meaning or interpretation between the English language version of these Terms, and any translation, the English language version will prevail. The original English text shall be the sole legally binding version
+1.4. Any translation from English version is provided for your convenience only. In the event of any difference in meaning or interpretation between the English language version of these Terms, and any translation, the English language version will prevail. The original English text shall be the sole legally binding version
 
-1. 5.                   We may change these Terms on this page of the Website. We may provide you with notice about some critical changes, for example by email or by posting notifications on the Service, but are not obliged to do so in every case. Any other changes will be notified to you only by updating the "Last updated" date of these Terms and you waive any right to receive specific notice of each such change. If you don’t agree to the changes, you should stop using the Service. Use of the Service after any changes to these Terms are made means that you accept such changes.
+1.5. We may change these Terms on this page of the Website. We may provide you with notice about some critical changes, for example by email or by posting notifications on the Service, but are not obliged to do so in every case. Any other changes will be notified to you only by updating the "Last updated" date of these Terms and you waive any right to receive specific notice of each such change. If you don’t agree to the changes, you should stop using the Service. Use of the Service after any changes to these Terms are made means that you accept such changes.
 
-1. 6.                   IF YOU DO NOT AGREE WITH ANY PART OF THESE TERMS, OR IF YOU ARE NOT ELIGIBLE OR AUTHORIZED TO BE BOUND BY THESE TERMS, THEN DO NOT DOWNLOAD THE APP OR OTHERWISE ACCESS OR USE THE SERVICE.
+1.6. IF YOU DO NOT AGREE WITH ANY PART OF THESE TERMS, OR IF YOU ARE NOT ELIGIBLE OR AUTHORIZED TO BE BOUND BY THESE TERMS, THEN DO NOT DOWNLOAD THE APP OR OTHERWISE ACCESS OR USE THE SERVICE.

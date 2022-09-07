@@ -6,11 +6,11 @@ In order to use some of our apps or websites, we may ask you to enter your name,
 
 For improving the app and attracting users, we use third party solutions. As a result, we may process data using solutions developed by Amplitude, Facebook, Firebase, Google, Apple, Appsflyer, Crashlytics. Therefore, some of the data is stored and processed on servers of such third parties. This enables us to (1) analyze different interactions (how often users make subscriptions, the average weight and height of our users, how many users chose a particular area for improvement); (2) serve ads (and are able to show them only to a particular group of users, for example, to subscribers). Consequently, we, in particular, better understand in what of our features and content you see the most value and are able to focus on them to enhance your experience and increase the quality of our products.
 
-Please read our Privacy Policy below to know more about what we do with data, what data privacy rights are available to you and who will be the data controller.. If any questions will remain unanswered or you would like to exercise your privacy rights, please contact us at support@kettapp.info.
+Please read our Privacy Policy below to know more about what we do with data, what data privacy rights are available to you and who will be the data controller.. If any questions will remain unanswered or you would like to exercise your privacy rights, please contact us at support@kettapp.site.
 
 ## PRIVACY POLICY
 
-This Privacy Policy applies to Betterme corporate group ("we" "our" or "us") and explains what personal data is collected when you use the our mobile applications, websites and the services provided through them (together “App” or “Service”), how such personal data will be processed.
+This Privacy Policy applies to Kettapp corporate group ("we" "our" or "us") and explains what personal data is collected when you use the our mobile applications, websites and the services provided through them (together “App” or “Service”), how such personal data will be processed.
 
 BY USING THE SERVICE, YOU PROMISE US THAT (I) YOU HAVE READ, UNDERSTAND AND AGREE TO THIS PRIVACY POLICY, AND (II) YOU ARE OVER 16 YEARS OF AGE (OR HAVE HAD YOUR PARENT OR GUARDIAN READ AND AGREE TO THIS PRIVACY POLICY FOR YOU). If you do not agree, or are unable to make this promise, you must not use the Service. In such case, you must (a) delete your account and contact us and request deletion of your data; (b) cancel any subscriptions using the functionality provided by Apple (if you are using iOS) or Google (if you are using Android), any other app stores that may be available from time to time, or by us if you purchased it directly from our websites; and (c) delete the App from your devices.
 
@@ -246,8 +246,8 @@ As we develop our business, we may buy or sell assets or business offerings. Cus
 
 ### AFFILIATES WITHIN THE CORPORATE GROUP
 
-BetterMe International Limited is part of the BetterMe corporate group. We may receive personal data about you from other companies in the BetterMe corporate group, or share your personal data with them as needed for providing you with access to our Services; providing customer support; researching your use of our Service; communicating with you, and for other purposes described in the “For what purposes we process your personal data” section of this Privacy Policy.
-Irrespective of the terms of any our internal arrangements, you may exercise your data subject’s rights simply by contacting us at support@betterme.world.
+Kettapp International Limited is part of the Kettapp corporate group. We may receive personal data about you from other companies in the Kettapp corporate group, or share your personal data with them as needed for providing you with access to our Services; providing customer support; researching your use of our Service; communicating with you, and for other purposes described in the “For what purposes we process your personal data” section of this Privacy Policy.
+Irrespective of the terms of any our internal arrangements, you may exercise your data subject’s rights simply by contacting us at support@kettapp.site.
 
 ### HOW YOU CAN EXERCISE YOUR PRIVACY RIGHTS
 
@@ -262,11 +262,11 @@ The right to lodge a complaint with supervisory authority. We would love you to 
 
 The right to data portability. If you wish to receive your personal data in a machine-readable format, you can do so by requesting a copy of your personal data as described above. The data will be made available to you in the .json file or other file format.
 
-To exercise any of the available to you privacy rights, please send a request to support@betterme.world.
+To exercise any of the available to you privacy rights, please send a request to support@kettapp.site.
 
 ### AGE LIMITATION
 
-We do not knowingly process personal data from persons under 16 years of age. If you learn that anyone younger than 16 has provided us with personal data, please contact us at support@betterme.world.
+We do not knowingly process personal data from persons under 16 years of age. If you learn that anyone younger than 16 has provided us with personal data, please contact us at support@kettapp.site.
 
 ### INTERNATIONAL DATA TRANSFERS
 
@@ -276,3 +276,33 @@ In particular, if we transfer personal data originating from the EEA to countrie
 ### CHANGES TO THIS PRIVACY POLICY
 
 We may modify this Privacy Policy from time to time. If we decide to make material changes to this Privacy Policy, you will be notified through our Service or by other available means and will have an opportunity to review the revised Privacy Policy. By continuing to access or use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.
+
+### CALIFORNIA PRIVACY RIGHTS
+
+This section provides additional details about how we process personal data of California consumers and the rights available to them under the California Consumer Privacy Act (“CCPA”) and California’s Shine the Light law. Therefore, this section applies only to residents of California, United States.
+For more details about the personal information we have collected, including the categories of sources, please see Section 1 above. We collect this information for purposes described in Section 2 of this Privacy Policy. We may also share your information with certain categories of third parties as indicated in Section 4.
+
+Subject to certain limitations, the CCPA provides California consumers the right to request to know more details about the categories or specific pieces of personal information we collect (including how we use and disclose this information), to delete their personal information, to opt-out of any “sales” that may be occurring, and to not be discriminated against for exercising these rights.
+
+California consumers may make a request pursuant to their rights under the CCPA by contacting us at support@kettapp.site. We will verify your request and inform you accordingly. You may also designate an authorized agent to exercise these rights on your behalf.
+
+Access rights under California’s Shine the Light
+
+California also provides its residents with additional access rights. Under Shine the Light law, the residents may ask companies once a year what personal information they share with third parties for those third parties' direct marketing purposes. Learn more about what is considered to be personal information under the statute.
+
+To obtain this information from us, please send an email message to support@kettapp.site, which includes “Request for California Shine the Light Privacy Information” on the subject line and your state of residence and email address in the body of your message. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+
+### DATA RETENTION
+
+We will store your personal data for as long as it is reasonably necessary for achieving the purposes set forth in this Privacy Policy (including providing the Service to you), which includes (but is not limited to) the period during which you have an account with the App. We will also retain and use your personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### HOW “DO NOT TRACK” REQUESTS ARE HANDLED
+
+Except as otherwise stipulated in this Privacy Policy, this App does not support “Do Not Track” requests. To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+
+### PERSONAL DATA CONTROLLER
+
+Kettapp corporate group will be the controller of your personal data.
+
+### CONTACT US
+You may contact us at any time for details regarding this Privacy Policy and its previous versions. For any questions concerning your account or your personal data please contact us at support@kettapp.site.

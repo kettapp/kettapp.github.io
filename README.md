@@ -15,3 +15,9 @@ https://kettapp.space/moneyback
 ### RU
 
 https://kettapp.space/privacy-ru
+
+https://kettapp.space/terms-ru
+
+https://kettapp.space/subscription-ru
+
+https://kettapp.space/moneyback-ru

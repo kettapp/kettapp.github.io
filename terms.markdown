@@ -217,3 +217,165 @@ We may at any time modify or discontinue, temporarily or permanently, the Servic
 10.3. IF YOU ARE A CALIFORNIA RESIDENT, YOU HEREBY WAIVE CALIFORNIA CIVIL CODE SECTION 1542, WHICH STATES, “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY.”
 
 10.4. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OF CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU AND YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.
+
+## INDEMNITY
+
+You agree to indemnify and hold the Company, its successors, subsidiaries, affiliates, any related companies, its suppliers, licensors and partners, and the officers, directors, employees, agents and representatives of each of them harmless, including costs and attorneys' fees, from any claim or demand made by any third party due to or arising out of (i) your use of the Service or Products, (ii) your User Content, or (ii) your violation of these Terms.
+
+The Company reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of the Company. The Company will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
+
+## INTERNATIONAL USE
+
+The Company makes no representation that the Service is accessible, appropriate or legally available for use in your jurisdiction, and accessing and using the Service is prohibited from territories where doing so would be illegal. You access the Service at your own initiative and are responsible for compliance with local laws.
+
+## COMPLAINTS
+
+13.1 If you are not satisfied with any of our services, you can submit a respective complaint to our email support@betterme.world. Your complaint needs to include:
+
+- specifications of the services you had used
+
+- explanation of why you did not like them
+
+- proof confirming you have purchased the services from us
+
+- any visual or other evidence supporting the complaint (at your discretion).
+
+You will receive a detailed response from our responsible team once the complaint is reviewed but no later than after one month from the date of the complaint submission.
+
+13.2. An arbitration dispute can be initiated if you are unsatisfied with your complaint's review outcome. Please refer to clause 14 hereof governing the arbitration dispute process.
+
+## MANDATORY BINDING ARBITRATION AND CLASS ACTION WAIVER
+
+PLEASE READ THIS ARBITRATION PROVISION CAREFULLY TO UNDERSTAND YOUR RIGHTS. IT REQUIRES YOU TO ARBITRATE DISPUTES WITH US AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US, IN PARTICULAR:
+
+(a) All claims must be resolved through binding arbitration by a neutral arbitrator;
+
+(b) You are waiving the right to a trial by jury; the rights that you would have if you went to court, such as discovery or the right to appeal, may be more limited or may not exist;
+
+(c) You may only bring a claim in your individual capacity and not as a plaintiff (lead or otherwise) or class member in any purported class or representative proceeding;
+
+(d) The arbitrator may not consolidate proceedings or claims or otherwise preside over any form of a representative or class proceeding.
+
+### a. Applicability of Arbitration Agreement
+
+This arbitration agreement governs any dispute between you and the company (and each of our respective agents, corporate parents, subsidiaries, affiliates, predecessors in interest, successors, and assigns) including but not limited to claims arising out of or relating to any aspect of the relationship between you and the Company, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory; claims that arose before these Terms or any prior agreement; and claims that may arise after the termination of these Terms (“Dispute”), except claims that can be brought in small claims court if your claims qualify within the scope of that court's jurisdiction.
+
+Without limiting the preceding sentence, you will also have the right to litigate any other Dispute if you opt out of this arbitration and class action waiver provisions by sending electronic notice of your decision to opt out to support@betterme.world with the subject line, "ARBITRATION AND CLASS ACTION WAIVER OPT-OUT" within 30 days of (a) the effective date of these Terms; or (b) your first date that you used the Service that contained any versions of the Terms that substantially included this version of the Arbitration Agreement (including class action waiver), whichever is later. If you opt out of this Arbitration Agreement, the Company also will not be bound by it and any Dispute shall be resolved in accordance with Section 15. If you don’t exercise the right to opt out, you will be deemed to have knowingly and intentionally waived your right to litigate any Dispute except claims that can be brought in small claims court.
+
+This Arbitration Agreement shall apply, without limitation, to all claims that arose or were asserted before the effective date of these Terms or any prior version of these Terms.
+
+The relevant arbitrator shall have sole authority to determine applicability, existence, validity and termination of the Arbitration Agreement in each particular case. In the event that a dispute involves both issues that are subject to arbitration and issues that are not subject to arbitration, the parties unequivocally agree that any legal proceeding regarding the issues not subject to arbitration shall be stayed pending resolution of the issues subject to arbitration.
+
+### b. Initial Dispute Resolution
+
+We are always interested in resolving disputes amicably and efficiently. If you have any dispute with the Company, you agree that before taking any formal action, you will contact us at support@betterme.world, and provide a brief, written description of the dispute and your contact information. The parties agree to use their best efforts to settle any dispute, claim, question, or disagreement directly through consultation with the Company, and good faith negotiations will be a condition to either party initiating an arbitration.
+
+### c. Mandatory Arbitration
+
+This arbitration agreement provides that all Disputes must be resolved through BINDING ARBITRATION, except to the extent that the applicable law prohibits the exclusive use of arbitration for dispute resolution.
+
+YOU AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND WE ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION AND AGREE TO HAVE OUR DISPUTES FINALLY SETTLED BY BINDING ARBITRATION before one arbitrator administered by:
+
+(1) the London Court of International Arbitration (“LCIA”) if you are not a U.S. resident. Disputes are subject to the most current version of the LCIA Arbitration Rules when the notice of arbitration is submitted. Information about the LCIA’s rules can be found at https://www.lcia.org/Dispute_Resolution_Services/LCIA_Arbitration.aspx; or
+
+(2) Judicial Arbitration and Mediation Services, Inc. (“JAMS”) if you are a U.S. resident. Disputes involving claims and counterclaims under  USD 250,000, not inclusive of attorneys’ fees and interest, shall be subject to JAMS’s most current version of the Streamlined Arbitration Rules and procedures available at http://www.jamsadr.com/rules-streamlined-arbitration/; all other claims shall be subject to JAMS’s most current version of the Comprehensive Arbitration Rules and Procedures, available at http://www.jamsadr.com/rules-comprehensive-arbitration/. JAMS’s rules are also available at www.jamsadr.com or by calling JAMS at 800-352-5267.
+
+In each case the relevant arbitration rules will apply as modified by this Arbitration Agreement. In the event of a conflict between the applicable arbitration rules and these Terms, these Terms shall govern unless otherwise agreed by the parties and the relevant arbitrator.
+
+If the relevant administrator of arbitration is not available to arbitrate, the parties will select an alternative arbitral forum.
+
+### d. Waiver of Class Action and Collective Relief
+
+THERE SHALL BE NO RIGHT OR AUTHORITY FOR ANY CLAIMS TO BE ARBITRATED OR LITIGATED ON A CLASS ACTION, JOINT OR CONSOLIDATED BASIS OR ON BASES INVOLVING CLAIMS BROUGHT IN A PURPORTED REPRESENTATIVE CAPACITY ON BEHALF OF THE GENERAL PUBLIC, OTHER USERS OF THE SERVICES, OR ANY OTHER PERSONS. THE ARBITRATOR MAY AWARD RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF WARRANTED BY THAT INDIVIDUAL PARTY’S CLAIM. THE ARBITRATOR MAY NOT AWARD RELIEF FOR OR AGAINST ANYONE WHO IS NOT A PARTY. THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON’S CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING. THIS WAIVER OF CLASS ACTIONS AND COLLECTIVE RELIEF IS AN ESSENTIAL PART OF THIS ARBITRATION PROVISION AND CANNOT BE SEVERED FROM IT.
+
+BY AGREEING TO THE ARBITRATION OF DISPUTES AS SET FORTH HEREIN, YOU AGREE THAT YOU ARE WAIVING YOUR RIGHT TO A JURY TRIAL AND LIMITING YOUR RIGHT TO APPEAL AND YOU UNDERSTAND THAT YOU ARE WAIVING YOUR RIGHTS TO OTHER AVAILABLE RESOLUTION PROCESSES, SUCH AS A COURT ACTION.
+
+THE ARBITRATOR HAS NO AUTHORITY TO AWARD PUNITIVE DAMAGES.
+
+### e. Arbitration Procedures.
+
+- Overview. Arbitration is an alternative to litigation where a neutral person (the arbitrator) hears and decides the parties’ Dispute. Arbitration proceedings are designed to provide parties with a fair hearing in a manner that is faster and less formal than court proceedings. The following procedures (the “Arbitration Procedures”) are applicable to all arbitration proceedings involving you and us.
+
+- Seat of Arbitration. The seat of the arbitration shall be:
+
+(a) if you are not a U.S. resident, London, United Kingdom;
+
+(b) if you are a U.S. resident, Delaware, U.S.
+
+- Choice of Law. The governing law applicable to the arbitration agreement and the arbitration shall be:
+
+(a) if you are not a U.S. resident, the laws of England and Wales (also known as English Law), without regard to English Law’s conflict of laws rules; or
+
+(b) if you are a U.S. resident, Delaware law consistent with the Federal Arbitration Act and applicable statutes of limitations, having regard to claims of privilege recognized at law.
+
+- Language. The language of the arbitration shall be English.
+
+- Commencing an Arbitration. To start an arbitration, you must follow instructions available at:
+
+(a) https://www.lcia.org/adr-services/lcia-notes-for-parties.aspx#5.%20COMMENCING%20AN%20LCIA%20ARBITRATION for LCIA; or
+
+(b) https://www.jamsadr.com/submit/ for JAMS.
+
+You may represent yourself in the arbitration or have a lawyer (or some other representative) act on your behalf. Upon receipt of an arbitration claim, we may assert any counterclaims we may have against the complaining party.
+
+- Fees. If you are a consumer and you initiate arbitration against us, the only filing fee you will be required to pay is USD 250 and the rest of the filing fees (if any) shall be borne by us. If the arbitrator finds the arbitration initiated by you to be non-frivolous and/or not in bad faith we will cover all other arbitration costs, including case management fees and all professional fees for the arbitrator's services (but not your attorneys’ fees, if any).
+
+If we initiate arbitration against you and you are a consumer, we will pay for all costs associated with the arbitration (but not your attorneys’ fees, if any).
+
+The parties shall be responsible for paying their own attorneys’ fees unless the arbitration rules and/or applicable law provide otherwise.
+
+Should either party bring a Dispute involving issues subject to arbitration in a forum other than arbitration, the court or the arbitrator shall have the authority to award reasonable costs, fees and expenses, including reasonable attorneys’ fees, incurred by the other party in successfully staying or dismissing, in whole or in part, such other proceeding or in otherwise enforcing compliance with this Arbitration Agreement.
+
+- Selection of the Arbitrator. The arbitrator who will hear and decide your Dispute will be appointed by the LCIA or JAMS, as applicable, in accordance with their respective rules.
+
+Arbitration Hearings. The arbitrator will conduct hearings, if any, by teleconference or videoconference (based on written and/or electronic filing of documents), rather than by personal appearances, unless the arbitrator determines upon request by you or by us that an in-person hearing is appropriate. Any in-person appearances will be held at a location which is reasonably convenient to both parties with due consideration of their ability to travel and other pertinent circumstances, provided that if you are a consumer, you have a right to an in-person hearing in your hometown area. If the parties are unable to agree on a location, such determination should be made by the administrator of arbitration or by the arbitrator.
+
+- Discovery. Each party may (a) request relevant, non-privileged documents from the other party; and (b) request that the other party provide the particulars of its claims or defenses. Any such discovery requests must be served on the other party within 10 days after the arbitrator’s appointment. The responding party shall provide the requesting party with all responsive, non-privileged documents, the requested particulars, and/or any objections to the requests within 15 days after receipt of the requests. Any disputes about discovery or requests for extensions shall be submitted promptly to the arbitrator for prompt resolution. In ruling on any discovery dispute or extension request, the arbitrator shall take into consideration the nature, amount, and scope of the underlying arbitration claim, the cost and other effort what would be involved in providing the requested discovery, the case schedule, and whether the requested discovery is necessary for the adequate preparation of a claim or defense.
+
+- Communications with the Arbitrator. Whenever communicating with the arbitrator, the parties must include each other – for example, by including the other party on a telephone conference call and copying the other party on any written submissions, such as letters or emails. To the extent practicable, conferences with the arbitrator will take place by telephone conference call or email. Ex parte communications are not permitted with any arbitrator.
+
+- Confidentiality. Upon either party’s request, the arbitrator will issue an order requiring that confidential information of either party disclosed during the arbitration (whether in documents or orally) may not be used or disclosed except in connection with the arbitration or a proceeding to enforce the arbitration award and that any permitted filing of confidential information must be done under seal.
+
+- Arbitration Award. The arbitrator will render a written decision within 14 days after the hearing or, if no hearing was held, within 30 days after any rebuttal or supplemental statements are due. The decision must clearly specify the relief, if any, awarded and contain a brief statement of the reasons for the award.
+
+- Waiver of Appeal. The parties agree that the award shall be final and binding upon the parties and waive any right to refer any question of law and any right of appeal on the law and/or the merits to any court.
+
+Consumer Remedies. If you are a consumer, remedies that would otherwise be available to you under applicable laws will remain available under this Arbitration Agreement, unless you retain the right to pursue such remedies in court as per this Agreement.
+
+### f. Severability of Arbitration Agreement
+
+If any portion of this Arbitration Agreement is found to be unenforceable or unlawful for any reason, (a) the unenforceable or unlawful provision shall be severed from these Terms; (b) severance of the unenforceable or unlawful provision shall have no impact whatsoever on the remainder of this Arbitration Agreement or the parties’ ability to compel arbitration of any remaining claims on an individual basis pursuant to this Arbitration Agreement; and (c) to the extent that any claims must therefore proceed on a class, collective, consolidated, or representative basis, such claims must be litigated in court in accordance with Section 15, and the parties agree that litigation of those claims shall be stayed pending the outcome of any individual claims in arbitration. Further, if any part of this Arbitration Agreement is found to prohibit an individual from seeking the remedy of public injunctive relief, that provision will have no effect to the extent such relief is allowed to be sought out of arbitration, and the remainder of this Arbitration Agreement will be enforceable.
+
+### g. Survival
+
+This arbitration provision shall survive termination of this Terms.
+
+## GOVERNING LAW AND VENUE
+
+14.1. These Terms shall be governed in accordance with the laws of England and Wales (excluding its body of law governing conflicts of law).
+
+14.2. To the extent that any action relating to any dispute hereunder is for whatever reason not submitted to arbitration, each of the parties submits to the exclusive jurisdiction to the courts of England and Wales to settle any disputes which may arise out of or in connection with this Terms and that accordingly proceedings must be brought in such courts.
+
+14.3. The parties irrevocably submit to the personal jurisdiction and venue of the courts of England and waive any defenses of improper venue or forum non conveniens.
+
+## MISCELLANEOUS PROVISIONS
+
+15.1. No delay or omission by us in exercising any of our rights occurring upon any noncompliance or default by you with respect to these Terms will impair any such right or be construed to be a waiver thereof, and a waiver by the Company of any of the covenants, conditions or agreements to be performed by you will not be construed to be a waiver of any succeeding breach thereof or of any other covenant, condition or agreement hereof contained.
+
+15.2. Subject to Section 14, if any provision of these Terms is found to be invalid or unenforceable, then these Terms will remain in full force and effect and will be reformed to be valid and enforceable while reflecting the intent of the parties to the greatest extent permitted by law.
+
+15.3. Except as otherwise expressly provided herein, these Terms set forth the entire agreement between you and the Company regarding its subject matter, and supersede all prior promises, agreements or representations, whether written or oral, regarding such subject matter.
+
+15.4. The Company may transfer or assign any and all of its rights and obligations under these Terms to any other person, by any way, including by novation, and by accepting these Terms you give the Company consent to any such assignment and transfer. You confirm that placing on the Service of a version of these Terms indicating another person as a party to the Terms shall constitute valid notice to you of the transfer of Company's rights and obligations under the Terms (unless otherwise is expressly indicated).
+
+15.5. All information communicated on the Service is considered an electronic communication. When you communicate with us through or on the Service or via other forms of electronic media, such as e-mail, you are communicating with us electronically. You agree that we may communicate electronically with you and that such communications, as well as notices, disclosures, agreements, and other communications that we provide to you electronically, are equivalent to communications in writing and shall have the same force and effect as if they were in writing and signed by the party sending the communication. You further acknowledge and agree that by clicking on a button labeled "SUBMIT", "CONTINUE", "REGISTER", "I AGREE" or similar links or buttons, you are submitting a legally binding electronic signature and are entering into a legally binding contract. You acknowledge that your electronic submissions constitute your agreement and intent to be bound by these Terms. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS AND OTHER RECORDS AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED THROUGH THE SERVICE.
+
+15.6. In no event shall the Company be liable for any failure to comply with these Terms to the extent that such failure arises from factors outside the Company's reasonable control.
+
+## CONTACT
+
+If you want to send any notice under these Terms or have any questions regarding the Service and Products, you may contact us at: support@betterme.world.
+
+I HAVE READ THESE TERMS AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE.
+
+BetterMe International Limited (reg. No. HE 417945 with registered office at Themistokli Dervi 39, 1st floor, Office 104, 1066, Nicosia, Cyprus)

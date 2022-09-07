@@ -7,3 +7,33 @@ In order to use some of our apps or websites, we may ask you to enter your name,
 For improving the app and attracting users, we use third party solutions. As a result, we may process data using solutions developed by Amplitude, Facebook, Firebase, Google, Apple, Appsflyer, Crashlytics. Therefore, some of the data is stored and processed on servers of such third parties. This enables us to (1) analyze different interactions (how often users make subscriptions, the average weight and height of our users, how many users chose a particular area for improvement); (2) serve ads (and are able to show them only to a particular group of users, for example, to subscribers). Consequently, we, in particular, better understand in what of our features and content you see the most value and are able to focus on them to enhance your experience and increase the quality of our products.
 
 Please read our Privacy Policy below to know more about what we do with data, what data privacy rights are available to you and who will be the data controller.. If any questions will remain unanswered or you would like to exercise your privacy rights, please contact us at support@kettapp.info.
+
+## PRIVACY POLICY
+
+This Privacy Policy applies to Betterme corporate group ("we" "our" or "us") and explains what personal data is collected when you use the our mobile applications, websites and the services provided through them (together “App” or “Service”), how such personal data will be processed.
+
+BY USING THE SERVICE, YOU PROMISE US THAT (I) YOU HAVE READ, UNDERSTAND AND AGREE TO THIS PRIVACY POLICY, AND (II) YOU ARE OVER 16 YEARS OF AGE (OR HAVE HAD YOUR PARENT OR GUARDIAN READ AND AGREE TO THIS PRIVACY POLICY FOR YOU). If you do not agree, or are unable to make this promise, you must not use the Service. In such case, you must (a) delete your account and contact us and request deletion of your data; (b) cancel any subscriptions using the functionality provided by Apple (if you are using iOS) or Google (if you are using Android), any other app stores that may be available from time to time, or by us if you purchased it directly from our websites; and (c) delete the App from your devices.
+
+Any translation from English version is provided for your convenience only. In the event of any difference in meaning or interpretation between the English language version of this Privacy Policy and any translation, the English language version will prevail. The original English text shall be the sole legally binding version.
+
+“GDPR” means the General Data Protection Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data.
+
+“EEA” includes all current member states to the European Union and the European Economic Area.
+
+“Process”, in respect of personal data, includes to collect, store, and disclose to others.
+
+## TABLE OF CONTENTS
+
+1. CATEGORIES OF PERSONAL DATA WE COLLECT
+2. FOR WHAT PURPOSES WE PROCESS PERSONAL DATA
+3. UNDER WHAT LEGAL BASES WE PROCESS YOUR PERSONAL DATA (Applies only to EEA-based users)
+4. WITH WHOM WE SHARE YOUR PERSONAL DATA
+5. HOW YOU CAN EXERCISE YOUR PRIVACY RIGHTS
+6. AGE LIMITATION
+7. INTERNATIONAL DATA TRANSFERS
+8. CHANGES TO THIS PRIVACY POLICY
+9. CALIFORNIA PRIVACY RIGHTS
+10. DATA RETENTION
+11. HOW “DO NOT TRACK” REQUESTS ARE HANDLED
+12. PERSONAL DATA CONTROLLER
+13. CONTACT US

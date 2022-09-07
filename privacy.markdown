@@ -1,4 +1,4 @@
-# Privacy policy
+# Privacy Policy
 
 ## IMPORTANT PRIVACY INFORMATION
 

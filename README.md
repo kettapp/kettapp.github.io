@@ -1,4 +1,4 @@
-# kettapp.github.io
+# kettapp.github.io -> kettapp.site
 
 ## Welcome to GitHub Pages
 

@@ -37,3 +37,15 @@ Any translation from English version is provided for your convenience only. In t
 11. HOW “DO NOT TRACK” REQUESTS ARE HANDLED
 12. PERSONAL DATA CONTROLLER
 13. CONTACT US
+
+## 1. CATEGORIES OF PERSONAL DATA WE COLLECT
+
+We collect data you give us voluntarily (for example, when you choose your areas for improvement or send us an email). We also may receive data about you from third parties (for example, when you sign in via Apple). Finally, we collect data automatically (for example, your IP address).
+
+### Data you give us
+
+You provide us information about yourself when you register for and/or use the Service. For example: name, age, gender, data on physical characteristics (including height, weight, areas for improvement), fitness level, food preferences (including diet preferences; preferred number of meals, foods you do not like), meditation preferences, food and exercises you log, email address.
+
+### Data provided by third parties
+
+When you use sign in with Apple to register an account in the App, we get personal data from your Apple ID account. This data may include, in particular, your name and verified email address. You may choose to share your real email address or an anonymous one that uses the private email relay service. Apple will show you their detailed privacy information on the sign in with Apple screen. Find more about sign with Apple [here](https://www.apple.com/legal/privacy/data/en/apple-id/).

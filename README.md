@@ -1,3 +1,3 @@
 # KettApp
 
-## Mobile apps development team.
+## Development team.

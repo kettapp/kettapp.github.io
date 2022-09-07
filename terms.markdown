@@ -12,11 +12,11 @@ FURTHERMORE, THESE TERMS CONTAIN IMPORTANT DISCLAIMERS IN (SECTION 2), DISCLAIME
 
 ## 1.   ACCEPTANCE OF TERMS
 
-1. 1. The provisions of the “Terms” govern the relationship between you and BetterMe International Limited (reg. No. HE417945) with registered office at Themistokli Dervi 39, 1st floor, Office 104, 1066, Nicosia, Cyprus (“we”, “us”, “our” or the “Company”) regarding your use of the Company’s mobile applications, websites and related services (the “App” or “Service”), including all information, text, graphics, software, and services, available for your use (the “Content”).
+1.1. The provisions of the “Terms” govern the relationship between you and BetterMe International Limited (reg. No. HE417945) with registered office at Themistokli Dervi 39, 1st floor, Office 104, 1066, Nicosia, Cyprus (“we”, “us”, “our” or the “Company”) regarding your use of the Company’s mobile applications, websites and related services (the “App” or “Service”), including all information, text, graphics, software, and services, available for your use (the “Content”).
 
-1. 2.                   These Terms establish a legally binding contractual relationship between you and the Company. For this reason, PLEASE READ THE TERMS CAREFULLY BEFORE USING THE SERVICE.
+1. 2. These Terms establish a legally binding contractual relationship between you and the Company. For this reason, PLEASE READ THE TERMS CAREFULLY BEFORE USING THE SERVICE.
 
-1. 3.                   Please review also our Privacy Policy. The terms of the Privacy Policy and other supplemental terms, policies or documents that may be posted on the Service from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms at any time and for any reason.
+1. 3. Please review also our Privacy Policy. The terms of the Privacy Policy and other supplemental terms, policies or documents that may be posted on the Service from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms at any time and for any reason.
 
 1. 4.                   Any translation from English version is provided for your convenience only. In the event of any difference in meaning or interpretation between the English language version of these Terms, and any translation, the English language version will prevail. The original English text shall be the sole legally binding version
 

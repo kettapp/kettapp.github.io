@@ -12,7 +12,7 @@ FURTHERMORE, THESE TERMS CONTAIN IMPORTANT DISCLAIMERS IN (SECTION 2), DISCLAIME
 
 ## ACCEPTANCE OF TERMS
 
-1.1. The provisions of the “Terms” govern the relationship between you and BetterMe International Limited (reg. No. HE417945) with registered office at Themistokli Dervi 39, 1st floor, Office 104, 1066, Nicosia, Cyprus (“we”, “us”, “our” or the “Company”) regarding your use of the Company’s mobile applications, websites and related services (the “App” or “Service”), including all information, text, graphics, software, and services, available for your use (the “Content”).
+1.1. The provisions of the “Terms” govern the relationship between you and KettApp International Limited (reg. No. HE346234) with registered office at 44 Sydney Street, Kettering, Northamptonshire, United Kingdom, NN16 0HY (“we”, “us”, “our” or the “Company”) regarding your use of the Company’s mobile applications, websites and related services (the “App” or “Service”), including all information, text, graphics, software, and services, available for your use (the “Content”).
 
 1.2. These Terms establish a legally binding contractual relationship between you and the Company. For this reason, PLEASE READ THE TERMS CAREFULLY BEFORE USING THE SERVICE.
 
@@ -112,7 +112,7 @@ FURTHERMORE, THESE TERMS CONTAIN IMPORTANT DISCLAIMERS IN (SECTION 2), DISCLAIME
 
 ## SHOPPING
 
-7.1. Additional e-commerce terms and conditions available below in Annex A (“Terms of Sale”) apply to sale by the Company of apparel, shoes and accessories (“Products”) available through our Service (“BetterMe Store”). These Terms apply to the online sale and delivery of BetterMe Products through BetterMe Store in part, which is not regulated by the Terms of Sale. Please review them prior to making purchases through BetterMe Store. We also aim to provide information about our refund, exchange, re-stocking, taxes, and shipping at or near the point of purchase. If you have questions related to BetterMe Store, please contact our support team.
+7.1. Additional e-commerce terms and conditions available below in Annex A (“Terms of Sale”) apply to sale by the Company of apparel, shoes and accessories (“Products”) available through our Service (“KettApp Store”). These Terms apply to the online sale and delivery of KettApp Products through KettApp Store in part, which is not regulated by the Terms of Sale. Please review them prior to making purchases through KettApp Store. We also aim to provide information about our refund, exchange, re-stocking, taxes, and shipping at or near the point of purchase. If you have questions related to KettApp Store, please contact our support team.
 
 ## USER REPRESENTATIONS AND RESTRICTIONS
 
@@ -230,7 +230,7 @@ The Company makes no representation that the Service is accessible, appropriate 
 
 ## COMPLAINTS
 
-13.1 If you are not satisfied with any of our services, you can submit a respective complaint to our email support@betterme.world. Your complaint needs to include:
+13.1 If you are not satisfied with any of our services, you can submit a respective complaint to our email support@kettapp.site. Your complaint needs to include:
 
 - specifications of the services you had used
 
@@ -260,7 +260,7 @@ PLEASE READ THIS ARBITRATION PROVISION CAREFULLY TO UNDERSTAND YOUR RIGHTS. IT R
 
 This arbitration agreement governs any dispute between you and the company (and each of our respective agents, corporate parents, subsidiaries, affiliates, predecessors in interest, successors, and assigns) including but not limited to claims arising out of or relating to any aspect of the relationship between you and the Company, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory; claims that arose before these Terms or any prior agreement; and claims that may arise after the termination of these Terms (“Dispute”), except claims that can be brought in small claims court if your claims qualify within the scope of that court's jurisdiction.
 
-Without limiting the preceding sentence, you will also have the right to litigate any other Dispute if you opt out of this arbitration and class action waiver provisions by sending electronic notice of your decision to opt out to support@betterme.world with the subject line, "ARBITRATION AND CLASS ACTION WAIVER OPT-OUT" within 30 days of (a) the effective date of these Terms; or (b) your first date that you used the Service that contained any versions of the Terms that substantially included this version of the Arbitration Agreement (including class action waiver), whichever is later. If you opt out of this Arbitration Agreement, the Company also will not be bound by it and any Dispute shall be resolved in accordance with Section 15. If you don’t exercise the right to opt out, you will be deemed to have knowingly and intentionally waived your right to litigate any Dispute except claims that can be brought in small claims court.
+Without limiting the preceding sentence, you will also have the right to litigate any other Dispute if you opt out of this arbitration and class action waiver provisions by sending electronic notice of your decision to opt out to support@kettapp.site with the subject line, "ARBITRATION AND CLASS ACTION WAIVER OPT-OUT" within 30 days of (a) the effective date of these Terms; or (b) your first date that you used the Service that contained any versions of the Terms that substantially included this version of the Arbitration Agreement (including class action waiver), whichever is later. If you opt out of this Arbitration Agreement, the Company also will not be bound by it and any Dispute shall be resolved in accordance with Section 15. If you don’t exercise the right to opt out, you will be deemed to have knowingly and intentionally waived your right to litigate any Dispute except claims that can be brought in small claims court.
 
 This Arbitration Agreement shall apply, without limitation, to all claims that arose or were asserted before the effective date of these Terms or any prior version of these Terms.
 
@@ -268,7 +268,7 @@ The relevant arbitrator shall have sole authority to determine applicability, ex
 
 ### b. Initial Dispute Resolution
 
-We are always interested in resolving disputes amicably and efficiently. If you have any dispute with the Company, you agree that before taking any formal action, you will contact us at support@betterme.world, and provide a brief, written description of the dispute and your contact information. The parties agree to use their best efforts to settle any dispute, claim, question, or disagreement directly through consultation with the Company, and good faith negotiations will be a condition to either party initiating an arbitration.
+We are always interested in resolving disputes amicably and efficiently. If you have any dispute with the Company, you agree that before taking any formal action, you will contact us at support@kettapp.site, and provide a brief, written description of the dispute and your contact information. The parties agree to use their best efforts to settle any dispute, claim, question, or disagreement directly through consultation with the Company, and good faith negotiations will be a condition to either party initiating an arbitration.
 
 ### c. Mandatory Arbitration
 
@@ -374,8 +374,8 @@ This arbitration provision shall survive termination of this Terms.
 
 ## CONTACT
 
-If you want to send any notice under these Terms or have any questions regarding the Service and Products, you may contact us at: support@betterme.world.
+If you want to send any notice under these Terms or have any questions regarding the Service and Products, you may contact us at: support@kettapp.site.
 
 I HAVE READ THESE TERMS AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE.
 
-BetterMe International Limited (reg. No. HE 417945 with registered office at Themistokli Dervi 39, 1st floor, Office 104, 1066, Nicosia, Cyprus)
+KettApp International Limited (reg. No. HE346234 with registered office at 44 Sydney Street, Kettering, Northamptonshire, United Kingdom, NN16 0HY)

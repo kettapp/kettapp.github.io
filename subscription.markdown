@@ -12,3 +12,25 @@
 - If you purchased a subscription or enabled trial on Google Play: You may cancel a free trial or a subscription anytime by turning off auto-renewal through your Google Play account settings. To avoid being charged, cancel the subscription in your account settings at least 24 hours before the end of the trial or the current subscription period. You alone can manage your subscriptions. Learn more about managing subscriptions (and how to cancel them) on Google’s support page.
 - If you purchased a subscription or enabled trial on Huawei AppGallery: You may cancel a free trial or a subscription anytime by turning off auto-renewal through your Huawei account settings. To avoid being charged, cancel the subscription in your account settings at least 24 hours before the end of the trial or the current subscription period. You alone can manage your subscriptions. Learn more about managing subscriptions (and how to cancel them) on Huawei’s support page.
 - If you purchased a subscription or enabled trial on our websites: To avoid being charged cancel your subscription before the end of the then-current period. You may cancel your subscription purchased on our website in your profile. Below you may find several options (that may change from time to time) on how to initiate cancelation of a web subscription: Open your web profile page and go to subscription settings. From here, you will be directed to subscription settings and will be able to turn it off. Canceling your subscription means that the automatic renewal will be disabled, but you will still have access to all your subscription features for the remaining time of your then-current period.
+
+## Refunds
+
+If you purchased a subscription or enabled trial on App Store: If you are eligible for a refund, you'll have to request it directly from Apple. To request a refund, follow these instructions from the Apple support page.
+
+If you purchased a subscription or enabled trial on Google Play: If you are eligible for a refund, you'll have to request it directly from Google. To request a refund, follow these instructions from the Google’s support page.
+
+If you purchased a subscription or enabled trial on Huawei AppGallery: If you are eligible for a refund, you’ll have to request it directly from Huawei. To request a refund, follow these instructions from the Huawei’s support page
+
+If you purchased a subscription or enabled trial on our websites: We provide refunds at our own discretion and subject to laws and our policies that may be published from time to time. Refund will be provided if we find the request acceptable.
+
+Please note that after your subscription period expires, we will not be able to refund you as the service will be deemed consumed in full, unless otherwise provided for by applicable law.
+
+## Changes
+
+To the maximum extent permitted by applicable laws, we may change subscription fees at any time. We will give you reasonable notice of any such pricing changes by posting the new prices on or through the app and/or by sending you an email notification, or in other prominent ways. If you do not wish to pay the new fees, you can cancel the applicable subscription prior to the change going into effect.
+
+If you have any questions in relation to the subscription terms, please contact us via the chat functionality or directly at support@kettapp.site
+
+Any translation from the English version is provided for your convenience only. In the event of any difference in meaning, version, or interpretation between the English language version of this Subscription and any translation, the English language version will prevail.
+
+Please make a screenshot of this information for your reference. This may help you to control your subscriptions.

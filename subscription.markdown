@@ -32,5 +32,3 @@ To the maximum extent permitted by applicable laws, we may change subscription f
 If you have any questions in relation to the subscription terms, please contact us via the chat functionality or directly at support@kettapp.site
 
 Any translation from the English version is provided for your convenience only. In the event of any difference in meaning, version, or interpretation between the English language version of this Subscription and any translation, the English language version will prevail.
-
-Please make a screenshot of this information for your reference. This may help you to control your subscriptions.

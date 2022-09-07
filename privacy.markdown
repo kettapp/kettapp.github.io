@@ -49,3 +49,64 @@ You provide us information about yourself when you register for and/or use the S
 ### Data provided by third parties
 
 When you use sign in with Apple to register an account in the App, we get personal data from your Apple ID account. This data may include, in particular, your name and verified email address. You may choose to share your real email address or an anonymous one that uses the private email relay service. Apple will show you their detailed privacy information on the sign in with Apple screen. Find more about sign with Apple [here](https://www.apple.com/legal/privacy/data/en/apple-id/).
+
+### Data we collect automatically:
+### Data about how you found us
+
+We collect data about your referring app or URL (that is, the app or place on the Web where you were when you tapped on our ad).
+
+### Device and Location data.
+
+We collect data from your mobile device. Examples of such data include: language settings, IP address, time zone, type and model of a device, device settings, operating system, Internet service provider, mobile carrier, hardware ID, and Facebook ID.
+
+### Usage data
+
+We record how you interact with our Service. For example, we log your taps on certain areas of the interface, the features, and content you interact with, workouts you do, the time and duration of your workouts, how often you use the App, how long you are in the app, your training program progress, and your subscription orders. We also record the ads in our App with which you interact (and the Internet links to which those adds lead).
+
+### Advertising IDs
+
+We collect your Apple Identifier for Advertising (“IDFA”) or Google Advertising ID (“AAID”) (depending on the operating system of your device). You can typically reset these numbers through the settings of your device’s operating system (but we do not control this).
+
+### Transaction data
+
+When you make payments through the Service, you need to provide financial account data, such as your credit card number, to our third-party service providers. We do not collect or store full credit card number data, though we may receive credit card-related data, data about the transaction, including: date, time and amount of the transaction, the type of payment method used.
+
+### Cookies
+
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our Service. A persistent cookie remains on your hard drive for an extended period of time. We also use tracking pixels that set cookies to assist with delivering online advertising.
+
+Cookies are used, in particular, to automatically recognize you the next time you visit our website. As a result, the information, which you have earlier entered in certain fields on the website may automatically appear the next time when you use our Service. Cookie data will be stored on your device and most of the times only for a limited time period.
+
+## 2. FOR WHAT PURPOSES WE PROCESS YOUR PERSONAL DATA
+
+We process your personal data:
+
+### To provide our Service
+
+This includes enabling you to use the Service in a seamless manner and preventing or addressing Service errors or technical issues.
+
+To host personal data and enable our App to operate and be distributed we use Amazon Web Services, which is a hosting and backend service provided by Amazon.
+
+To monitor infrastructure and the App’s performance, we use Crashlytics, which is a monitoring service provided by Google. Here’s its [Data Collection Policy](https://firebase.google.com/#crashlytics) 
+
+We use Firebase Performance Monitoring and Firebase Crash Reporting, which are monitoring services provided by Google. To learn more, please visit [Google’s Privacy policy](https://policies.google.com/privacy) and [Privacy and Security in Firebase](https://firebase.google.com/support/privacy/).
+
+### To customize your experience
+
+We process your personal data, in particular, such as your characteristics and preferences, to adjust the content of the Service and provide content tailored to your personal preferences. As a result of such processing, you get access, for example, to a nutrition plan containing only vegetarian products or a customized meal plan offer (in the in-App chat) tailored for achieving your goals.
+
+### To manage your account and provide you with customer support
+
+We process your personal data to respond to your requests for technical support, Service information or to any other communication you initiate. This includes accessing your account to address technical support requests. For this purpose, we may send you, for example, notifications or emails about the performance of our Service, security, payment transactions, notices regarding our Terms and Conditions of Use or this Privacy Policy.
+
+### To communicate with you regarding your use of our Service
+
+We communicate with you, for example, by push notifications. These may include reminders and motivational messages encouraging you to follow your training and nutrition plan, or other information about the App. As a result, you may, for example, receive a push notification every day at a particular time reminding you to work out. To opt out of receiving push notifications, you need to change the settings on your device.
+
+The services that we use for these purposes may collect data concerning the date and time when the message was viewed by our App’s users, as well as when they interacted with it, such as by clicking on links included in the message.
+
+Intercom provides us with message and customer service tools, which enable us to communicate with you within the App. When you chat with us via in-App chat, some of your information is automatically transferred to Intercom. The transfer is required to enable us to identify (if you shared any name related data with us) and to communicate with you in the in-App chat. Thus, Intercom uses these data to provide and fulfill its services (as set forth in their terms of service). Intercom is EU-US Privacy Shield certified. Read more about Intercom’s approach to privacy in its Privacy Policy.
+
+To communicate with you we also use Firebase Cloud Messaging and Firebase Notifications, which are message sending services provided by Google. Firebase Cloud Messaging allows us to send messages and notifications to users of our App across platforms such as Android and iOS. We integrate Firebase Notifications with Firebase Analytics to create analytics-based audiences and track opening and conversion events. As a result, we can, for example, send encouraging messages to users who have recently finished a training program. Google's [privacy policy](https://policies.google.com/privacy).
+
+We use Apple Push Notification service (“APNs”), that is a notifications service provided by Apple. APNs allows us to send information to iOS devices. Apple's [privacy policy](https://www.apple.com/privacy/).
